@@ -1,0 +1,28 @@
+{
+  "name": "react-native-birthday-pickers",
+  "version": "1.0.0",
+  "description": "使用react-native实现农历、国历选择",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangming25/react-native-birthday-pickers.git"
+  },
+  "keywords": [
+    "react-native-birthday-pickers",
+    "lunar-picker",
+    "react-native农历",
+    "react-native国历"
+  ],
+  "author": "xiangming",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiangming25/react-native-birthday-pickers/issues"
+  },
+  "homepage": "https://github.com/xiangming25/react-native-birthday-pickers#readme"
+}
